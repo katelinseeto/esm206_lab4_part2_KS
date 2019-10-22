@@ -1,1 +1,7 @@
-# esm206_lab4_part2_KS
+# My Awesome Lab 4 ReadMe
+
+- useful info
+- cool stuff
+
+*Italics!*
+
